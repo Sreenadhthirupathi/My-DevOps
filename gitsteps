@@ -1,0 +1,11 @@
+HEAD
+To CREATE USER IN GIT  cmds:
+
+dev
+ git config --globel user.name "to enter username"
+to see the created username 
+ git config ---global user.name
+to create the email id in git 
+ git config --global user.email "enter email"
+to see the created email id 
+ git config ---global user.email
